@@ -8,9 +8,7 @@ data:
     Samanthapuri Vijay 4
     Samanthapuri Vijay 5
   serviceaccount.yaml: |
-    Samanthapuri Vijay 1
     Samanthapuri Vijay 2
-    Samanthapuri Vijay 3
     Samanthapuri Vijay 4
     Samanthapuri Vijay 5
 kind: ConfigMap
