@@ -65,4 +65,5 @@ data:
     {{- end }}
 kind: ConfigMap
 metadata:
-  name: test-cm10
+  creationTimestamp: null
+  name: test-cm5

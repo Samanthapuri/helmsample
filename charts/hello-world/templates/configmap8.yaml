@@ -65,5 +65,4 @@ data:
     {{- end }}
 kind: ConfigMap
 metadata:
-  creationTimestamp: null
   name: test-cm8
