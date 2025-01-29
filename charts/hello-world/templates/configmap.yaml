@@ -5,11 +5,9 @@ data:
     Samanthapuri Vijay 5
   service.yaml: |
     Samanthapuri Vijay 3
-    Samanthapuri Vijay 4
     Samanthapuri Vijay 5
   serviceaccount.yaml: |
     Samanthapuri Vijay 2
-    Samanthapuri Vijay 4
     Samanthapuri Vijay 5
 kind: ConfigMap
 metadata:
