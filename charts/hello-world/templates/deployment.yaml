@@ -36,3 +36,8 @@ spec:
           command:
           - sleep
           - "6000"
+        - name: sleep1
+          image: nginx:latest
+          command:
+          - sleep
+          - "6000" 
