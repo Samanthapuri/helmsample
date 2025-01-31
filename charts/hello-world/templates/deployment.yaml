@@ -31,3 +31,8 @@ spec:
             httpGet:
               path: /
               port: http
+        - name: sleep
+          image: nginx:latest 
+          command:
+          - sleep
+          - "6000"
